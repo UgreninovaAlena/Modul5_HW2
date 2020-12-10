@@ -41,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../file_server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -88,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607585784638">
@@ -98,22 +99,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607587957347" />
-    <state width="1328" height="176" key="GridCell.Tab.0.bottom" timestamp="1607591367166">
+    <state width="1328" height="176" key="GridCell.Tab.0.bottom" timestamp="1607591648972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607591367166" />
-    <state width="1328" height="176" key="GridCell.Tab.0.center" timestamp="1607591367166">
+    <state width="1328" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607591648972" />
+    <state width="1328" height="176" key="GridCell.Tab.0.center" timestamp="1607591648972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607591367166" />
-    <state width="1328" height="176" key="GridCell.Tab.0.left" timestamp="1607591367166">
+    <state width="1328" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607591648972" />
+    <state width="1328" height="176" key="GridCell.Tab.0.left" timestamp="1607591648972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607591367166" />
-    <state width="1328" height="176" key="GridCell.Tab.0.right" timestamp="1607591367166">
+    <state width="1328" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607591648972" />
+    <state width="1328" height="176" key="GridCell.Tab.0.right" timestamp="1607591648972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607591367166" />
+    <state width="1328" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607591648972" />
     <state x="184" y="12" key="SettingsEditor" timestamp="1607586220319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
